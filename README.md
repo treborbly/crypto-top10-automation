@@ -11,5 +11,7 @@ To run the Crypto-Top10 program...
 open the "run" file, and within this file is the main executable of the program. Simply open and run this executable
 file, and you are now able to use the Crypto-Top10 program.
 
+The source code of this program is inside the "src" file.
+
 (This program was made and written by treborbly)
 
