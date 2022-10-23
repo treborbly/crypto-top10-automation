@@ -216,7 +216,7 @@ df_collection = pd.DataFrame(collection)
 
 file_name = f'Crypto-Top10{mm_dd_yyyy}.csv'
 complete_path = os.path.join(csv_path, file_name)
-df_collection.to_csv(complete_path)
+df_collection.to_csv(complete_path, index=False)
 
 print("File has been successfully created.")
 print("Thank you for using Crypto Top-10 Automation!")
