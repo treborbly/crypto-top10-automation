@@ -2,3 +2,4 @@
 * text=auto
 *.html linguist-detectable=false
 *.toc linguist-detectable=false
+*.py linguist-detectable
