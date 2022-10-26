@@ -14,7 +14,7 @@ file, and you are now able to use the Crypto-Top10 program.
 The source code of this program is inside the "src" file.
 
 What to expect soon...
-- Modifications to make the program faster than current version.
+- Optimization of program for better performance.
 
 (This program was made and written by treborbly)
 
